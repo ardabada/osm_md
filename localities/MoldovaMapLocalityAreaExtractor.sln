@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoldovaMapLocalityAreaExtractor", "MoldovaMapLocalityAreaExtractor\MoldovaMapLocalityAreaExtractor.csproj", "{104FAB0D-6AE2-464E-A624-72454A159E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParser", "DataParser\DataParser.csproj", "{F589FEE0-C813-4426-BC80-65434A6EDC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104FAB0D-6AE2-464E-A624-72454A159E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104FAB0D-6AE2-464E-A624-72454A159E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104FAB0D-6AE2-464E-A624-72454A159E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104FAB0D-6AE2-464E-A624-72454A159E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F589FEE0-C813-4426-BC80-65434A6EDC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F589FEE0-C813-4426-BC80-65434A6EDC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F589FEE0-C813-4426-BC80-65434A6EDC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F589FEE0-C813-4426-BC80-65434A6EDC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2720E4AB-1B6D-4C4A-B363-3376CB554E64}
+	EndGlobalSection
+EndGlobal
